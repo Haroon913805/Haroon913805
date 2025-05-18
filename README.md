@@ -1,6 +1,20 @@
-# Hi, I'm Haroon Afzal 👋
 
-**AI / Data Science Enthusiast | Python Developer | Machine Learning Researcher**
+import time
+import sys
+
+def splash_screen():
+    message = "Hi Everyone! I am Haroon Afzal"
+    for char in message:
+        sys.stdout.write(char)
+        sys.stdout.flush()
+        time.sleep(0.1)  # Adjust speed here
+    print("\nWelcome to my GitHub profile! 🚀")
+
+if __name__ == "__main__":
+    splash_screen()
+
+
+**AI / Data Science Enthusiast | Python Developer | 
 
 ---
 
@@ -11,11 +25,11 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, C, C++, SQL
-- **AI & ML:** PyTorch, TensorFlow, Scikit-learn, Keras
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, NLP (spaCy, NLTK)
-- **Tools & Frameworks:** ROS, OpenCV, CARLA Simulator, Jupyter, Docker, Linux
+- **AI & ML:** PyTorch, TensorFlow, Scikit-learn
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools & Frameworks:** OpenCV, CARLA Simulator, Jupyter, Yolov5, Yolov8
 - **Cloud & DevOps:** Git, GitHub, Bash/Shell scripting
-- **Other:** LaTeX, MS Office, Overleaf
+- **Other:** LaTeX, MS Office, Overleaf, PowerPoint
 
 ---
 
@@ -34,7 +48,7 @@ Exploratory data analysis and visualization with Python libraries showcasing cla
 
 ## 📫 Connect with me
 
-[LinkedIn](https://linkedin.com/in/haroon-afzal) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://linkedin.com/in/haroon-afzal) | [Email](rf913805@@gmail.com)
 
 ---
 
