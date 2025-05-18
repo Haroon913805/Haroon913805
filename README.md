@@ -1,17 +1,7 @@
+# 👋 Hi Everyone!  
+## I am **Haroon Afzal**  
 
-import time
-import sys
-
-def splash_screen():
-    message = "Hi Everyone! I am Haroon Afzal"
-    for char in message:
-        sys.stdout.write(char)
-        sys.stdout.flush()
-        time.sleep(0.1)  # Adjust speed here
-    print("\nWelcome to my GitHub profile! 🚀")
-
-if __name__ == "__main__":
-    splash_screen()
+✨ Welcome to my GitHub profile! ✨  
 
 
 **AI / Data Science Enthusiast | Python Developer | 
